@@ -1,5 +1,5 @@
-<h1><em><a href="" target="_blank">The Simon Game</a><em></h1>
-    <img src="" alt="Project photo" width="500px">
+<h1><em><a href="https://simon-mvstoyan.netlify.app" target="_blank">The Simon Game</a><em></h1>
+    <!---<img src="" alt="Project photo" width="500px">--->
 <hr>
   <h3>Features:</h3>
     <ul>
