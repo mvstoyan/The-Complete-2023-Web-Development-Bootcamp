@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-color: #252525;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    margin:  2%;
+    color: #FEF2BF;
+  }
+
+  #level-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    margin:  2%;
+    color: #FEF2BF;
+  }
+  
+  .container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  
+  }
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 5%;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
